@@ -83,14 +83,16 @@ To run the project redirecting to the root directory of the project and run the 
 
 ```
 
-### Test
+### API Documentation
 
-To test the web app run the following command:
+Run the following command:
 
 ```sh
- rspec spec ( to test the web application)
+ rails s
 
 ```
+and go to this link in your browser
+<http://localhost:3000/api/random>
 
 ## 👥 Authors <a name="authors"></a>
 
